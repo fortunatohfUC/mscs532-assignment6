@@ -1,0 +1,10 @@
+statistic,comparisons,per_element
+min,108054,2.1611
+median,247952,4.9590
+mean,257485,5.1497
+max,615729,12.3146
+stdev,79966,1.5993
+deterministic_mom_g5,510560,10.2112
+max_over_min_ratio,5.6983,
+quickselect_worst_surviving_fraction_over_500_seeds,0.9998,
+mom_g5_worst_surviving_fraction,0.5275,
